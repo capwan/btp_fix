@@ -11,3 +11,5 @@ This script fix problem with BTP Software.
 2. Run `btp_fix.py`
 
 **Now you can use BTP without any problems**
+
+**You can use .exe version of my script :** https://bit.ly/3iQxkYT
