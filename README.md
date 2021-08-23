@@ -8,7 +8,7 @@ This script which fix problem with BTP Software.
 ## Instruction
 
 1. Create folder and move `btp_fix.py` & `config.txt` there.
-2. Run `btp_fix.py`
+2. Run `btp_fix.py` in `cmd`
 
 **Now you can use BTP without any problems**
 
